@@ -1,7 +1,7 @@
 {
 	"author": "phiona",
 	"description": "A project that does something awesome",
-	"keywords": ["backend development", "and api certification", "@ freecodecamp"],
+	"keywords": ["backend development", "and api certification", "freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
